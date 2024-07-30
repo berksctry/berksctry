@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate developer who loves to code<br>💬 You can ask me about<br>⌛ Full Stack Web Development<br>⏳ Mobile App Development<br>
+🔭 A passionate developer who loves to code<br>⌛ Full Stack Web Development<br>⏳ Mobile App Development<br>
 
 
 # 💻 Tech Stack:
